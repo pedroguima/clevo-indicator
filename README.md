@@ -1,3 +1,10 @@
+Forked from SkyLandTW/clevo-indicator
+
+- Allow fans to work between 10% and 40%
+- Added lazy bash script (sensorsbuddy.sh) that you can add to your systemd
+
+
+
 Clevo Fan Control Indicator for Ubuntu
 ======================================
 

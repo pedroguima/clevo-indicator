@@ -1,0 +1,9 @@
+[Unit]
+Description="Start sensors buddy"
+
+[Service]
+WorkingDirectory=/usr/local/bin
+ExecStart=/usr/local/bin/sensorsbuddy.sh
+
+[Install]
+WantedBy=multi-user.target
